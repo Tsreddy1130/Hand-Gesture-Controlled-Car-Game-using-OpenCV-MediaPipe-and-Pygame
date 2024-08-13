@@ -9,15 +9,14 @@ Interactive Game Environment: A simple car game using Pygame where the car's mov
 Requirements
 Before you begin, ensure you have the following installed:
 
-Python 3.6+
-OpenCV (cv2)
-MediaPipe
-Pygame
+Python 3.6+  
+OpenCV (cv2)  
+MediaPipe  
+Pygame  
 
 
 
 You can install the required packages using pip:
 
 bash
-Copy code
-pip install opencv-python mediapipe pygame
+```pip install opencv-python mediapipe pygame```
