@@ -37,10 +37,10 @@ bash
 4. **Run the Script**:```python main.py```
 
 ## outputs:
+![Screenshot (3)](https://github.com/user-attachments/assets/9376a89e-ef4f-431b-9d4f-1974ccf65078)![Screenshot (16)](https://github.com/user-attachments/assets/4cf0d241-7372-4717-8ebd-59719383da39)
+![Screenshot (9)](https://github.com/user-attachments/assets/a05df287-7669-45e2-a21f-68f268f6737a)![Screenshot (11)](https://github.com/user-attachments/assets/047c9da4-0a8a-49c6-bb81-e72595610769)
 
-![Screenshot (13)](https://github.com/user-attachments/assets/9b7334d6-259b-4615-8b75-383afab1493a)
-![Screenshot (14)](https://github.com/user-attachments/assets/cc7c94be-45b2-481b-b561-caf5aa563b67)
-![Screenshot (16)](https://github.com/user-attachments/assets/4cf0d241-7372-4717-8ebd-59719383da39)
+
 
 
 
