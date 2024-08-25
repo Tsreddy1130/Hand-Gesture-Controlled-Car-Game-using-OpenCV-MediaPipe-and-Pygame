@@ -23,10 +23,10 @@ bash
 
 
 # How It Works
-##  -Capture Webcam Input: The script captures video from your webcam using OpenCV.
-##  -Detect Hand Gestures: MediaPipe processes the video feed to detect hand landmarks and count the number of raised fingers.
-##  -Control Car Movement: The car’s movement on the screen is controlled based on the finger count detected by MediaPipe.
-##  -Render with Pygame: The car and game environment are displayed using Pygame.
+##  -Capture Webcam Input: ## The script captures video from your webcam using OpenCV.
+##  -Detect Hand Gestures: ## MediaPipe processes the video feed to detect hand landmarks and count the number of raised fingers.
+##  -Control Car Movement: ##The car’s movement on the screen is controlled based on the finger count detected by MediaPipe.
+##  -Render with Pygame: ## The car and game environment are displayed using Pygame.
 **Add Your Car Image**:Place your car image (car.png) in the project directory. Make sure the image is named car.png or update the file name in the script accordingly.
 
 ## usage:
@@ -35,5 +35,13 @@ bash
 2. **Navigate to the Project Directory** ```cd hand-gesture-car-game```
 3. **Add Your Car Image**:Place your car image (car.png) in the project directory. Make sure the image is named car.png or update the file name in the script accordingly.
 4. **Run the Script**:```python main.py```
+
+## outputs:
+
+![Screenshot (13)](https://github.com/user-attachments/assets/9b7334d6-259b-4615-8b75-383afab1493a)
+![Screenshot (14)](https://github.com/user-attachments/assets/cc7c94be-45b2-481b-b561-caf5aa563b67)
+![Screenshot (16)](https://github.com/user-attachments/assets/4cf0d241-7372-4717-8ebd-59719383da39)
+
+
 
 
