@@ -1,4 +1,4 @@
-![Screenshot (11)](https://github.com/user-attachments/assets/99315806-7013-4cba-b21f-4b5d82dac992)# Hand-Gesture-Controlled-Car-Game-using-OpenCV-MediaPipe-and-Pygame
+# Hand-Gesture-Controlled-Car-Game-using-OpenCV-MediaPipe-and-Pygame
 ## Introduction:
 This project demonstrates how to control a virtual car in a Pygame environment using hand gestures captured from a webcam. The car's movement is controlled by detecting the number of raised fingers using MediaPipe's hand-tracking capabilities. The project uses OpenCV to capture the webcam feed, MediaPipe for hand detection and finger counting, and Pygame to create a simple game environment.
 
@@ -18,8 +18,9 @@ Before you begin, ensure you have the following installed:
 
 You can install the required packages using pip:
 
-bash
-`````pip install opencv-python mediapipe pygame`````
+
+`````bash
+pip install opencv-python mediapipe pygame`````
 
 
 # How It Works
@@ -31,10 +32,12 @@ bash
 
 ## usage:
  you can either download the python file or simply clone the reposirity:
-1. **Clone the Repository** ```git clone https://github.com/yourusername/hand-gesture-car-game.git```
-2. **Navigate to the Project Directory** ```cd hand-gesture-car-game```
-3. **Add Your Car Image**:Place your car image (car.png) in the project directory. Make sure the image is named car.png or update the file name in the script accordingly.
-4. **Run the Script**:```python main.py```
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/yourusername/hand-gesture-car-game.git```
+3. **Navigate to the Project Directory** ```cd hand-gesture-car-game```
+4. **Add Your Car Image**:Place your car image (car.png) in the project directory. Make sure the image is named car.png or update the file name in the script accordingly.
+5. **Run the Script**:```python main.py```
 
 ## outputs:
     if fingerCount == 1:--> move forward
