@@ -32,7 +32,7 @@ You can install the required packages using pip:
 ## usage:
  you can either download the python file or simply clone the reposirity:
 1. **Clone the Repository**
-   ```git clone https://github.com/yourusername/hand-gesture-car-game.git```
+   ```https://github.com/Tsreddy1130/Hand-Gesture-Controlled-Car-Game-using-OpenCV-MediaPipe-and-Pygame.git```
 3. **Navigate to the Project Directory** ```cd hand-gesture-car-game```
 4. **Add Your Car Image**:Place your car image (car.png) in the project directory. Make sure the image is named car.png or update the file name in the script accordingly.
 5. **Run the Script**:```python main.py```
